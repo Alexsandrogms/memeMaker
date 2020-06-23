@@ -8,22 +8,22 @@
 
 ## Welcome 👋
 
-Código fonte do projeto desenvolvido durante uma video aula disponível no canal [Mateus Silva]('https://youtu.be/Yajip86C8sg') no Youtube que consiste em um gerador de memes usando tecnologias como o React e Styled Components.
+Source code of the project developed during a video lesson available on the channel [Mateus Silva]('https://youtu.be/Yajip86C8sg') on Youtube that consists of a meme generator using technologies like React and Styled Components.
 
-Este projeto utiliza do [create-react-app]('https://github.com/facebook/create-react-app') e da api [imgflip]("https://api.imgflip.com/')
+This project uses[create-react-app]('https://github.com/facebook/create-react-app') e da api [imgflip]("https://api.imgflip.com/')
 
 ## Installation and execution
 
-Você precisará ter apenas o [NodeJS]('https://nodejs.org/en/') instalado na sua máquina.
+You will need to have only the[NodeJS]('https://nodejs.org/en/') installed on your machine.
 
-1. Clone o repositório ``
-2. Navegue até o repositório clonado é com o terminal iniciado execute o seguinte comando
+1. Clone the repository `https://github.com/Alexsandrogms/memeMaker.git`
+2. Navigate to the cloned repository and with the terminal started run the following command
 
 ```terminal
   $ yarn install # ou npm install
 ```
 
-3. Após instalado todas as dependências necessarias, execute o comando abaixo para iniciar a aplicação
+3. After installing all the necessary dependencies, execute the command below to start the application
 
 ```terminal
   $ yarn start # ou npm start
