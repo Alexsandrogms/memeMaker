@@ -8,13 +8,13 @@
 
 ## Welcome 👋
 
-Source code of the project developed during a video lesson available on the channel [Mateus Silva]('https://youtu.be/Yajip86C8sg') on Youtube that consists of a meme generator using technologies like React and Styled Components.
+Source code of the project developed during a video lesson available on the channel [Mateus Silva](https://youtu.be/Yajip86C8sg) on Youtube that consists of a meme generator using technologies like React and Styled Components.
 
-This project uses[create-react-app]('https://github.com/facebook/create-react-app') e da api [imgflip]("https://api.imgflip.com/')
+This project uses[create-react-app](https://github.com/facebook/create-react-app) e da api [imgflip](https://api.imgflip.com/)
 
 ## Installation and execution
 
-You will need to have only the[NodeJS]('https://nodejs.org/en/') installed on your machine.
+You will need to have only the [NodeJS](https://nodejs.org/en/) installed on your machine.
 
 1. Clone the repository `https://github.com/Alexsandrogms/memeMaker.git`
 2. Navigate to the cloned repository and with the terminal started run the following command
